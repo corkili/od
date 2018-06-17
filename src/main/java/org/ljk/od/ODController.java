@@ -84,7 +84,7 @@ public class ODController {
     }
 
     @RequestMapping(value = "/delete", method = RequestMethod.POST)
-    public String saveOrUpdate(@RequestParam("id") Long id) {
+    public String delete(@RequestParam("id") Long id) {
         LOG.info("delete id: {}", id);
         repository.deleteById(id);
         if (isQuery) {
