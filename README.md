@@ -7,6 +7,7 @@
 ### 2. 添加新器件
 
   - 点击```添加新器件```按钮，弹出表单
+  
   ![新建表单](https://github.com/corkili/od/raw/master/readme/02_add.png)
 
   - 在表单中输入所有信息后，点击```提交```按钮即可提交
@@ -16,6 +17,7 @@
 ### 3. 批量导入
 
   - 点击```批量导入```按钮，弹出对话框
+  
   ![批量导入](https://github.com/corkili/od/raw/master/readme/03_batch.png)
 
   - 选择一个excel文件后，点击```导入```按钮即可
@@ -32,6 +34,7 @@
 ### 5. 编辑光器件信息
 
   - 点击列表中的```编辑```按钮，弹出编辑信息表单
+  
   ![编辑](https://github.com/corkili/od/raw/master/readme/05_edit.png)
 
   - 在编辑信息表单中修改信息后，点击提交按钮即可
@@ -45,9 +48,11 @@
 ### 7. 查询功能
 
   - 点击```查询```按钮，弹出查询对话框
+  
   ![查询](https://github.com/corkili/od/raw/master/readme/06_query_init.png)
 
   - 点击相应的按钮，可以添加查询条件
+  
   ![查询条件](https://github.com/corkili/od/raw/master/readme/07_query_condition.png)
 
     + ```文本```：用于查询一个文本类型的字段，如条件1
@@ -87,5 +92,6 @@
 ### 9. 人民币转换器
 
   - 点击```人民币转换器```按钮，打开一个对话框
+  
   ![人民币转换器](https://github.com/corkili/od/raw/master/readme/img/08_rmb.png)
   - 在对话框的```金额```中输入相应的数字，即可实时的看到转换后的大写表达式
