@@ -2,12 +2,12 @@
 
 ### 1. 主界面
 
-![主界面](od/src/main/resources/static/img/01_index.png)
+![主界面](https://github.com/corkili/od/raw/master/readme/01_index.png)
 
 ### 2. 添加新器件
 
   - 点击```添加新器件```按钮，弹出表单
-  ![新建表单](od/src/main/resources/static/img/02_add.png)
+  ![新建表单](https://github.com/corkili/od/raw/master/readme/02_add.png)
 
   - 在表单中输入所有信息后，点击```提交```按钮即可提交
     + 所有项都必须填写，否则添加失败
@@ -16,14 +16,14 @@
 ### 3. 批量导入
 
   - 点击```批量导入```按钮，弹出对话框
-  ![批量导入](od/src/main/resources/static/img/03_batch.png)
+  ![批量导入](https://github.com/corkili/od/raw/master/readme/03_batch.png)
 
   - 选择一个excel文件后，点击```导入```按钮即可
     + 必须选择一个excel文件，才能点击导入
     + 文件以```.xls```或```.xlsx```结尾
     + 文件内容：必须按照下图所示的列顺序填写
 
-    ![文件内容](od/src/main/resources/static/img/04_excel.png)
+    ![文件内容](https://github.com/corkili/od/raw/master/readme/04_excel.png)
 
 ### 4. 导出Excel文件
 
@@ -32,7 +32,7 @@
 ### 5. 编辑光器件信息
 
   - 点击列表中的```编辑```按钮，弹出编辑信息表单
-  ![编辑](od/src/main/resources/static/img/05_edit.png)
+  ![编辑](https://github.com/corkili/od/raw/master/readme/05_edit.png)
 
   - 在编辑信息表单中修改信息后，点击提交按钮即可
     + 编辑信息表单同添加新器件的表单
@@ -45,10 +45,10 @@
 ### 7. 查询功能
 
   - 点击```查询```按钮，弹出查询对话框
-  ![查询](od/src/main/resources/static/img/06_query_init.png)
+  ![查询](https://github.com/corkili/od/raw/master/readme/06_query_init.png)
 
   - 点击相应的按钮，可以添加查询条件
-  ![查询条件](od/src/main/resources/static/img/07_query_condition.png)
+  ![查询条件](https://github.com/corkili/od/raw/master/readme/07_query_condition.png)
 
     + ```文本```：用于查询一个文本类型的字段，如条件1
       * 第一个选择框用于选择需要查询的字段名，包括“名称”，“规格”，“一级类别”，“二级类别”，“代表厂商”；第二个
@@ -87,5 +87,5 @@
 ### 9. 人民币转换器
 
   - 点击```人民币转换器```按钮，打开一个对话框
-  ![人民币转换器](od/src/main/resources/static/img/img/08_rmb.png)
+  ![人民币转换器](https://github.com/corkili/od/raw/master/readme/img/08_rmb.png)
   - 在对话框的```金额```中输入相应的数字，即可实时的看到转换后的大写表达式
