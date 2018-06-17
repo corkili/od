@@ -93,5 +93,5 @@
 
   - 点击```人民币转换器```按钮，打开一个对话框
   
-  ![人民币转换器](https://github.com/corkili/od/raw/master/readme/img/08_rmb.png)
+  ![人民币转换器](https://github.com/corkili/od/raw/master/readme/08_rmb.png)
   - 在对话框的```金额```中输入相应的数字，即可实时的看到转换后的大写表达式
