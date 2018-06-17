@@ -63,6 +63,11 @@ public class ODController {
         return "redirect:/";
     }
 
+    @RequestMapping("/help")
+    public String help() {
+        return "help";
+    }
+
     @RequestMapping(value = "/save", method = RequestMethod.POST)
     public String saveOrUpdate(@ModelAttribute("od") OpticalDevice od) {
         LOG.info("received od information: {}", od);

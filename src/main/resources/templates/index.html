@@ -219,6 +219,7 @@
                 <div class="col-md-4 column text-right">
                     <div class="btn-group">
                         <button id="currencyBtn" class="btn btn-warning" type="button">人民币转换器</button>
+                        <a class="btn btn-default" type="button" th:href="@{/help}" target="_blank">帮助页面</a>
                     </div>
                 </div>
             </div>
@@ -267,7 +268,14 @@
             </div>
         </div>
     </div>
+    <div class="row clearfix">
+        <div class="col-md-12" style="text-align: center">
+            <hr/>
+        </div>
+    </div>
 </div>
+
+
 <p style="display: none" id="message" th:text="${message}"></p>
 
 <script th:src="@{/js/jquery-3.3.1.min.js}"></script>
