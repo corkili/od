@@ -8,17 +8,17 @@
     </formats>
     <fileSets>
         <fileSet>
-            <directory>${project.basedir}\src\bin</directory>
-            <outputDirectory>\bin</outputDirectory>
+            <directory>${project.basedir}/src/bin</directory>
+            <outputDirectory>/bin</outputDirectory>
             <fileMode>0755</fileMode>
         </fileSet>
     </fileSets>
     <files>
         <file>
             <source>
-                ${project.basedir}\src\main\resources\application.properties
+                ${project.basedir}/src/main/resources/application.properties
             </source>
-            <outputDirectory>\config</outputDirectory>
+            <outputDirectory>/config</outputDirectory>
             <fileMode>0644</fileMode>
         </file>
     </files>
